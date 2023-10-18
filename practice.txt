@@ -1,0 +1,2 @@
+bug - 101
+now i will write some lines then i will make it stashed then i will perform new bug fix lets check then again i will applly stash
